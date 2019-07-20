@@ -1,0 +1,15 @@
+C:\Priyank\MyWork\Learning\Owin.Katana.Console\bin\Debug\Microsoft.Owin.dll
+C:\Priyank\MyWork\Learning\Owin.Katana.Console\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Priyank\MyWork\Learning\Owin.Katana.Console\bin\Debug\Owin.dll
+C:\Priyank\MyWork\Learning\Owin.Katana.Console\bin\Debug\Microsoft.Owin.xml
+C:\Priyank\MyWork\Learning\Owin.Katana.Console\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Priyank\MyWork\Learning\Owin.Katana.Console\obj\Debug\Owin.Katana.Console.csprojAssemblyReference.cache
+C:\Priyank\MyWork\Learning\Owin.Katana.Console\obj\Debug\Owin.Katana.Console.csproj.CoreCompileInputs.cache
+C:\Priyank\MyWork\Learning\Owin.Katana.Console\obj\Debug\Owin.Katana.Console.csproj.CopyComplete
+C:\Priyank\MyWork\Learning\Owin.Katana.Console\bin\Debug\Owin.Katana.exe.config
+C:\Priyank\MyWork\Learning\Owin.Katana.Console\bin\Debug\Owin.Katana.exe
+C:\Priyank\MyWork\Learning\Owin.Katana.Console\bin\Debug\Owin.Katana.pdb
+C:\Priyank\MyWork\Learning\Owin.Katana.Console\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Priyank\MyWork\Learning\Owin.Katana.Console\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Priyank\MyWork\Learning\Owin.Katana.Console\obj\Debug\Owin.Katana.exe
+C:\Priyank\MyWork\Learning\Owin.Katana.Console\obj\Debug\Owin.Katana.pdb
